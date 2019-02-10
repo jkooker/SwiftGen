@@ -35,6 +35,10 @@
   [426](https://github.com/SwiftGen/SwiftGen/issues/426)
   [468](https://github.com/SwiftGen/SwiftGen/issues/468)
   [573](https://github.com/SwiftGen/SwiftGen/pull/573)
+* All commands now have built-in Swift 5 templates.  
+  [David Jennes](https://github.com/djbe)
+  [#595](https://github.com/SwiftGen/SwiftGen/issue/595)
+  [#600](https://github.com/SwiftGen/SwiftGen/pull/600)
 
 ### Bug Fixes
 
