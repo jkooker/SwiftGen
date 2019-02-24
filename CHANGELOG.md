@@ -38,6 +38,9 @@
   [426](https://github.com/SwiftGen/SwiftGen/issues/426)
   [468](https://github.com/SwiftGen/SwiftGen/issues/468)
   [573](https://github.com/SwiftGen/SwiftGen/pull/573)
+* XCAssets: the parser now supports AR Resource Groups, together with reference images and objects.  
+  [David Jennes](https://github.com/djbe)
+  [#614](https://github.com/SwiftGen/SwiftGen/pull/614)
 
 ### Bug Fixes
 
